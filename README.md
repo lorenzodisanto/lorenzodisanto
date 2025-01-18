@@ -1,8 +1,7 @@
 <h1 align="center">Hi, I'm Lorenzo</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 
-<p>My name is Lorenzo Di Santo. <br/>
-Hi! I'm Lorenzo, a web developer with a passion for creating innovative and functional web experiences. My adventure in the world of web development started about a year ago and since then I have been fascinated by the endless possibilities that this field offers. <br/> I had the opportunity to work on several projects, both individually and in teams, which allowed me to hone my technical and collaborative skills.</p>
+<p>Hi! I'm Lorenzo, <br/> a web developer with a passion for creating innovative and functional web experiences. My adventure in the world of web development started about a year ago and since then I have been fascinated by the endless possibilities that this field offers. <br/> I had the opportunity to work on several projects, both individually and in teams, which allowed me to hone my technical and collaborative skills.</p>
 
 - Visit my personal <a href="https://disantolorenzo.netlify.app/" target="blank">Portfolio</a>
 - My Mail: **lore.disanto95@gmail.com**
